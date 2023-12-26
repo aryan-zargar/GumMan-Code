@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Guman\GumMan\bin\Debug\net8.0\GumMan.exe
+C:\Users\Administrator\source\repos\Guman\GumMan\bin\Debug\net8.0\GumMan.deps.json
+C:\Users\Administrator\source\repos\Guman\GumMan\bin\Debug\net8.0\GumMan.runtimeconfig.json
+C:\Users\Administrator\source\repos\Guman\GumMan\bin\Debug\net8.0\GumMan.dll
+C:\Users\Administrator\source\repos\Guman\GumMan\bin\Debug\net8.0\GumMan.pdb
+C:\Users\Administrator\source\repos\Guman\GumMan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.dll
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\refint\GumMan.dll
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.pdb
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\GumMan.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Guman\GumMan\obj\Debug\net8.0\ref\GumMan.dll
