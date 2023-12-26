@@ -90,7 +90,7 @@ namespace Guman
                 }
                 lines.Add(line);
             }
-            Console.WriteLine("Gumman v1.0");
+            Console.WriteLine("Gumman v1.0.0");
             Console.WriteLine("your high score : " + readhighscore()); ;
             Console.WriteLine("you score : " + this.score);
             foreach (var list in lines)
